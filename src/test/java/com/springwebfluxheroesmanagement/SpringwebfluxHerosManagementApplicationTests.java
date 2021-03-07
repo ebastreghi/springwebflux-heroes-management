@@ -1,4 +1,4 @@
-package com.springwebfluxherosmanagement;
+package com.springwebfluxheroesmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

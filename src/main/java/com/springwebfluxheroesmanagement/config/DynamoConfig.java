@@ -1,4 +1,4 @@
-package com.springwebfluxherosmanagement.config;
+package com.springwebfluxheroesmanagement.config;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.BasicAWSCredentials;
