@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringwebfluxHerosManagementApplication {
+public class SpringwebfluxHeroesManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringwebfluxHerosManagementApplication.class, args);
+		SpringApplication.run(SpringwebfluxHeroesManagementApplication.class, args);
 	}
 
 }
